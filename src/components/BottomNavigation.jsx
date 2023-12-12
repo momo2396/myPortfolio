@@ -1,6 +1,6 @@
 const BottomNavigation = () => {
   return (
-    <div className="btm-nav fixed bottom-5 z-30  bg-black bg-opacity-10 max-w-[500px] mx-auto rounded-full">
+    <div className="btm-nav fixed bottom-5 z-30  bg-black bg-opacity-10 max-w-[700px] mx-auto rounded-full">
       <button>
         <svg
           xmlns="http://www.w3.org/2000/svg"

@@ -11,8 +11,20 @@ const Banner = () => {
           <br />
           <span>MERN Stack Developer</span>
         </div>
-        <div className="">
-          <img src="" alt="" />
+        <div className="mt-7 max-w-[500px] mx-auto border-8 border-black p-3">
+          <div className="">
+            <img
+              className=""
+              src="https://i.ibb.co/4KYSDGs/Whats-App-Image-2023-12-12-at-7-26-10-PM-removebg-preview.png"
+              alt=""
+            />
+          </div>
+        </div>
+        <div className="pt-10 flex justify-center items-center gap-5">
+          <button className="btn btn-outline border-black border-4">
+            Download CV
+          </button>
+          <button className="btn bg-black text-white">About Me</button>
         </div>
       </div>
 
