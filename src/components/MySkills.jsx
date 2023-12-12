@@ -2,7 +2,7 @@ const MySkills = () => {
   return (
     <div className="mt-20 flex flex-col justify-center items-center">
       <div className="text-3xl font-semibold mb-5">My Skills</div>
-      <div className="flex flex-row lg:flex-col gap-5">
+      <div className="flex flex-col md:flex-row gap-5">
         <div className="bg-black bg-opacity-10 py-5 px-3 rounded-lg">
           <div>
             <div className="text-center">Front-end Development</div>
