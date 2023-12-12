@@ -1,6 +1,7 @@
 import AboutMe from "./components/AboutMe";
 import Banner from "./components/Banner";
 import BottomNavigation from "./components/BottomNavigation";
+import MySkills from "./components/MySkills";
 import Navbar from "./components/Navbar";
 
 const Portfolio = () => {
@@ -9,6 +10,7 @@ const Portfolio = () => {
       <Navbar />
       <Banner />
       <AboutMe />
+      <MySkills />
       <BottomNavigation />
     </div>
   );

@@ -6,7 +6,7 @@ const AboutMe = () => {
           <span className="text-xl font-semibold">My intro</span> <br />
           <span className="text-3xl font-semibold">About Me</span>
           <br />
-          <span className="text-gray-500">
+          <span className="text-gray-400">
             Passionate MERN stack developer with a flair for creating dynamic
             and responsive web applications. Proficient in leveraging MongoDB,
             Express.js, React, and Node.js to craft seamless user experiences.
@@ -24,7 +24,7 @@ const AboutMe = () => {
           <span className="text-xl font-semibold">My intro</span> <br />
           <span className="text-3xl font-semibold">About Me</span>
           <br />
-          <span className="text-gray-500">
+          <span className="text-gray-400">
             Passionate MERN stack developer with a flair for creating dynamic
             and responsive web applications. Proficient in leveraging MongoDB,
             Express.js, React, and Node.js to craft seamless user experiences.
