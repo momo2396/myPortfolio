@@ -1,7 +1,8 @@
 const MySkills = () => {
   return (
     <div className="mt-20 flex flex-col justify-center items-center">
-      <div className="text-3xl font-semibold mb-5">My Skills</div>
+      <div className="text-lg font-semibold">My abilities</div>
+      <div className="text-3xl font-semibold mb-5">Skills</div>
       <div className="flex flex-col md:flex-row gap-5">
         <div className="bg-black bg-opacity-10 py-5 px-3 rounded-lg">
           <div>
@@ -29,8 +30,20 @@ const MySkills = () => {
               </li>
               <li className="list-disc pl-5">
                 <span>Bootstrap</span> <br />
-                <span className="text-sm text-gray-400">Intermediate</span>
+                <span className="text-sm text-gray-400">Advanced</span>
               </li>
+              <li className="list-disc pl-5">
+                <span>Tailwind</span> <br />
+                <span className="text-sm text-gray-400">Advanced</span>
+              </li>
+              <li className="list-disc pl-5">
+                <span>DaisyUI</span> <br />
+                <span className="text-sm text-gray-400">Advanced</span>
+              </li>
+              {/* <li className="list-disc pl-5">
+                <span>MambaUI</span> <br />
+                <span className="text-sm text-gray-400">Advanced</span>
+              </li> */}
             </div>
           </div>
         </div>
@@ -61,6 +74,10 @@ const MySkills = () => {
               <li className="list-disc pl-5">
                 <span>MongoDB</span> <br />
                 <span className=" text-sm text-gray-400">Intermediate</span>
+              </li>
+              <li className="list-disc pl-5">
+                <span>Python</span> <br />
+                <span className="text-sm text-gray-400">Basic</span>
               </li>
             </div>
           </div>

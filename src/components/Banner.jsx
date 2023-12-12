@@ -11,7 +11,7 @@ const Banner = () => {
           <br />
           <span>MERN Stack Developer</span>
         </div>
-        <div className="mt-7 max-w-[500px] mx-auto border-8 border-black p-3">
+        <div className="mt-7 max-w-[500px] mx-auto border-8 border-black p-3 pb-0">
           <div className="">
             <img
               className=""
@@ -24,7 +24,9 @@ const Banner = () => {
           <button className="btn btn-outline border-black border-4">
             Download CV
           </button>
-          <button className="btn bg-black text-white">About Me</button>
+          <a href="#Projects" className="btn bg-black text-white">
+            Projects
+          </a>
         </div>
       </div>
 
