@@ -21,9 +21,14 @@ const Banner = () => {
           </div>
         </div>
         <div className="pt-10 flex justify-center items-center gap-5">
-          <button className="btn btn-outline border-black border-4">
+          <a
+            rel="noreferrer"
+            target="_blank"
+            href="https://drive.google.com/uc?export=download&id=1MgeGRYE74x22JMjIaenIT0Jcjyz-iNb9"
+            className="btn btn-outline border-black border-4"
+          >
             Download CV
-          </button>
+          </a>
           <a href="#Projects" className="btn bg-black text-white">
             Projects
           </a>

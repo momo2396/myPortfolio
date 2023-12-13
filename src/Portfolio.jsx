@@ -5,6 +5,7 @@ import ContactMe from "./components/ContactMe";
 import Footer from "./components/Footer";
 import MySkills from "./components/MySkills";
 import Navbar from "./components/Navbar";
+import Projects from "./components/Projects";
 
 const Portfolio = () => {
   return (
@@ -20,7 +21,9 @@ const Portfolio = () => {
           <Banner />
           <AboutMe />
           <MySkills />
+          <Projects />
           <ContactMe />
+
           <Footer />
           <BottomNavigation />
         </div>
