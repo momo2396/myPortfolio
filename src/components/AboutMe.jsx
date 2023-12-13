@@ -1,6 +1,6 @@
 const AboutMe = () => {
   return (
-    <>
+    <div id="AboutMe">
       <div className="max-w-[900px] mx-auto px-10 hidden lg:block mt-96  text-center ">
         <div>
           <span className="text-xl font-semibold">My intro</span> <br />
@@ -46,7 +46,7 @@ const AboutMe = () => {
           </a>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 

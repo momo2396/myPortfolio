@@ -1,6 +1,9 @@
 const MySkills = () => {
   return (
-    <div className="mt-20 flex flex-col justify-center items-center">
+    <div
+      id="Skills"
+      className="mt-20 flex flex-col justify-center items-center"
+    >
       <div className="text-lg font-semibold">My abilities</div>
       <div className="text-3xl font-semibold mb-5">Skills</div>
       <div className="flex flex-col md:flex-row gap-5">
