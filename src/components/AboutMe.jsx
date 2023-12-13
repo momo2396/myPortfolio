@@ -15,6 +15,13 @@ const AboutMe = () => {
             undertake.
           </span>
         </div>
+        <div className="text-3xl font-semibold text-center mt-5">
+          My Education
+        </div>
+        <div className="text-gray-400">
+          Persuing graduation in Computer Science and Engineering major at
+          University of Chittagong.
+        </div>
         <div className="mt-5">
           <button className="btn bg-black text-white">Contact Me</button>
         </div>
@@ -34,7 +41,9 @@ const AboutMe = () => {
           </span>
         </div>
         <div className="mt-5">
-          <button className="btn bg-black text-white">Contact Me</button>
+          <a href="#ContactMe" className="btn bg-black text-white">
+            Contact Me
+          </a>
         </div>
       </div>
     </>

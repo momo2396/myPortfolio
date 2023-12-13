@@ -10,10 +10,10 @@ const Projects = () => {
       id: 0,
       Title: "Elegance Ensemble",
       images: [
-        "/src/assets/brandManagement/Screenshot 2023-12-13 122206.png",
-        "/src/assets/brandManagement/Screenshot 2023-12-13 122225.png",
+        "https://i.ibb.co/8z9dnvD/Screenshot-2023-12-13-122206.png",
+        "https://i.ibb.co/19vgrxZ/Screenshot-2023-12-13-122225.png",
         "/src/assets/brandManagement/Screenshot 2023-12-13 122256.png",
-        "/src/assets/brandManagement/Screenshot 2023-12-13 122618.png",
+        "https://i.ibb.co/sj4xCP1/Screenshot-2023-12-13-122708.png",
       ],
       description:
         "It is a brand shop related website. My website is about beauty brand shop. 8 Brands are included here. A logo, some private routes are implemented on navbar.If i click one of the brands, it redirects to the brand page, where some brands include at least 4 products. Some brands do not have any product. Advertisement images are included here. If i click one of the products, then it will redirect to the details page, which is private. It will be accessed only when a user is logged in Without being logged in, the private routes will redirect to login page. Email pass and gmail authentication are implemented.",
@@ -23,10 +23,10 @@ const Projects = () => {
       id: 1,
       Title: "Flavor Frontiers",
       images: [
-        "/src/assets/restaurantManagementSystem/Screenshot 2023-12-13 123341.png",
-        "/src/assets/restaurantManagementSystem/Screenshot 2023-12-13 123555.png",
-        "/src/assets/restaurantManagementSystem/Screenshot 2023-12-13 123643.png",
-        "/src/assets/restaurantManagementSystem/Screenshot 2023-12-13 123836.png",
+        "https://i.ibb.co/3ySc3kH/Screenshot-2023-12-13-123341.png",
+        "https://i.ibb.co/ngzL6NH/Screenshot-2023-12-13-123555.png",
+        "https://i.ibb.co/BGzhfsN/Screenshot-2023-12-13-123715.png",
+        "https://i.ibb.co/TvbMqQf/Screenshot-2023-12-13-123807.png",
       ],
       description:
         "It's a restaurant management website for flavorfontiers. It contains Home page, a blog page, a all foods page, a profile page(private route), a your added food page(private route), an add food page(private route), a your ordered food page(private route). Home page contains a banner, a top 6 food section, a about section, a contact us section. All food section contains pagination. The limit of pagination is 9. When an user logs in, she can add a food from add food page, she can her added food and update it, she can delete ordered food her food. But she cannot order her own added food. When an unlogged in user tries to access private pages, she redirects to log in page.",
@@ -36,10 +36,10 @@ const Projects = () => {
       id: 2,
       Title: "Contest Hub",
       images: [
-        "/src/assets/contestHub/Screenshot 2023-12-13 124450.png",
-        "/src/assets/contestHub/Screenshot 2023-12-13 124752.png",
-        "/src/assets/contestHub/Screenshot 2023-12-13 124325.png",
-        "/src/assets/contestHub/Screenshot 2023-12-13 124752.png",
+        "https://i.ibb.co/864qmcn/Screenshot-2023-12-13-124300.png",
+        "https://i.ibb.co/0hNr0W1/Screenshot-2023-12-13-124539.png",
+        "https://i.ibb.co/Hp2Htmm/Screenshot-2023-12-13-124556.png",
+        "https://i.ibb.co/4WMqwNN/Screenshot-2023-12-13-124647.png",
       ],
       description:
         "This a contest arranging and management system, named ContestHub. Three roles have been set -- Admin, Creator, User. There is a home, all contests, leader board, time visualization page.  Dashboard is separated for three defined roles.  Admin Dashboard Pages: all users, all contests. Creator Dashboard Pages: all created contests, submitted tasks for single contests, add contest.  User Dashboard Pages: registered contests, submitted tasks, winning contests. Without logged in, one cannot access details pages",
